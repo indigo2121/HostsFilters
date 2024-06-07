@@ -16,7 +16,7 @@
 !
 
 0.0.0.0 gamestorrents.fm
-0.0.0.0 gamestorrents.fm
+0.0.0.0 www.gamestorrents.fm
 0.0.0.0 gamesfull.app
 0.0.0.0 zdescargas.org
 0.0.0.0 intercambios3d.org
@@ -197,7 +197,7 @@
 0.0.0.0 dontorrent.si
 0.0.0.0 pelispanda.org
 0.0.0.0 moviesdvdr.co
-0.0.0.0 cinecalidad.ec
+0.0.0.0 www.cinecalidad.ec
 0.0.0.0 cinecalidad.ec
 0.0.0.0 yts.rs
 0.0.0.0 alt-torrent.com
