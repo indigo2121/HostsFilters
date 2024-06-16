@@ -1,27 +1,47 @@
 !
 ! Title:
 ! Ilegal Entertainment Filter
-!
 ! Description: List composed of several filters (Webs: Torrent, File Server, Movie Streaming, Games, Etc. EasyList and EasyPrivacy)
-!
 ! Homepage: https://github.com/indigo2121/HostsFilters
 ! Last modified: 2024-06-06T18:06:05.622Z
-!
 ! Compiled by @indigo2121
-!
-!
 ! Source name: Ilegal Host Block Filter
 ! Source: https://github.com/indigo2121/HostsFilters/ilegalhostsblock.txt
-!
-!
-!
+0.0.0.0 allcalidad.re
+0.0.0.0 jkanime.net
+0.0.0.0 pelisplus.in
+0.0.0.0 cuevana.biz
+0.0.0.0 www3.animeflv.net
+0.0.0.0 aportesingecivil.com
+0.0.0.0 programasdixguel.blogspot.com
+0.0.0.0 store.epicgames.com
+0.0.0.0 epicgames.com
+0.0.0.0 leerolimpo.com
+0.0.0.0 8ballpool.com
+0.0.0.0 vipbox1.online
+0.0.0.0 www2.repelis24.plus
+0.0.0.0 softonic.com
+0.0.0.0 worldoftanks.com
+0.0.0.0 stake.com
+0.0.0.0 es.y8.com
+0.0.0.0 www.3u.com
+0.0.0.0 rapidgator.net
+0.0.0.0 cuevana8.com
+0.0.0.0 tvymanga3.com
+0.0.0.0 japeal.com
+0.0.0.0 fmovies24.to
+0.0.0.0 visortmo.com
+0.0.0.0 kny.manganyaa.com
+0.0.0.0 inmanga.com
+0.0.0.0 animefenix.tv
+0.0.0.0 pbs.twimg.com
+0.0.0.0 fukou-da.net
 0.0.0.0 gamestorrents.fm
 0.0.0.0 www.gamestorrents.fm
 0.0.0.0 gamesfull.app
 0.0.0.0 zdescargas.org
 0.0.0.0 intercambios3d.org
 0.0.0.0 descarga.xyz
-0.0.0.0 gamestorrents.fm
 0.0.0.0 techwarez.org
 0.0.0.0 misprogramaspc.com
 0.0.0.0 intercambiosvirtuales.org
@@ -46,7 +66,6 @@
 0.0.0.0 awdescargas.com
 0.0.0.0 lemoxaptservice.wixsite.com
 0.0.0.0 emugamex.foroactivo.com
-0.0.0.0 techwarez.org
 0.0.0.0 intercambiosos.org
 0.0.0.0 sefece.blogspot.com
 0.0.0.0 biodescargas.com
@@ -61,10 +80,8 @@
 0.0.0.0 mediafirepirata.blogspot.com
 0.0.0.0 descargaspcpro.net
 0.0.0.0 jaiefra.com
-0.0.0.0 awdescargas.com
 0.0.0.0 fgtecno.wordpress.com
 0.0.0.0 isidroamv.wordpress.com
-0.0.0.0 descargaspcpro.net
 0.0.0.0 zdescargaspc.com
 0.0.0.0 identi.io
 0.0.0.0 pcprogramasymas.net
@@ -76,7 +93,6 @@
 0.0.0.0 gmingenieros.com.pe
 0.0.0.0 aportesingecivil.com
 0.0.0.0 mrprogramas.com
-0.0.0.0 aportesingecivil.com
 0.0.0.0 odysee.com
 0.0.0.0 community.safe.com
 0.0.0.0 libreriaingeniero.com
@@ -102,7 +118,6 @@
 0.0.0.0 megavideojuegos.com
 0.0.0.0 crotorrents.com
 0.0.0.0 bladeblackgames.blogspot.com
-0.0.0.0 pivigames.blog
 0.0.0.0 elrefugiodelpirata.com
 0.0.0.0 rargb.to
 0.0.0.0 torrentz2.io
@@ -172,10 +187,8 @@
 0.0.0.0 ba-k.com
 0.0.0.0 compu-pc.com
 0.0.0.0 audiotools.in
-0.0.0.0 universodelamecatronica.com
 0.0.0.0 descargavirtualpc.com
 0.0.0.0 programashitpc.com
-0.0.0.0 descargaspcpro.net
 0.0.0.0 toneden.io
 0.0.0.0 descargarflstudiogratis.com
 0.0.0.0 bajarjuegospcgratis.com
@@ -184,7 +197,6 @@
 0.0.0.0 zettagames.net
 0.0.0.0 oldgamesdownload.com
 0.0.0.0 gamesgx.net
-0.0.0.0 mediafire.es
 0.0.0.0 juegospc.webnode.mx
 0.0.0.0 descargastodomega.blogspot.com
 0.0.0.0 nfsaddons.com
@@ -204,54 +216,21 @@
 0.0.0.0 alt-torrent.com
 0.0.0.0 limetorrents.so
 0.0.0.0 extratorrents.skin
-0.0.0.0 torrends.to
 0.0.0.0 thekickasstorrents.com
-0.0.0.0 kickasstorrents.to
 0.0.0.0 kickass.sx
-0.0.0.0 katcr.to
 0.0.0.0 katcr.to
 0.0.0.0 kat.am
 0.0.0.0 kickasstorrents.cr
 0.0.0.0 kickasstorrent.cr
-0.0.0.0 torrentz2.nz
 0.0.0.0 nyaa.land
 0.0.0.0 iptorrents.me
 0.0.0.0 torrentgalaxy-official.com
 0.0.0.0 idope.lol
 0.0.0.0 demonoid.is
 0.0.0.0 lexteckgames.com
-0.0.0.0 blizzboygames.net
 0.0.0.0 zonaleros.net
 0.0.0.0 mrmacintosh.com
 0.0.0.0 tampermonkey.net
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-
-
 # Apps
 0.0.0.0 utorrent.com
 0.0.0.0 qbittorrent.org
@@ -273,10 +252,7 @@
 0.0.0.0 apkmodget.com
 0.0.0.0 mipony.net
 0.0.0.0 a2zapk.io
-
-
 # FileServers
-
 0.0.0.0 mega.io
 0.0.0.0 mega.nz
 0.0.0.0 mega.co.nz
@@ -308,12 +284,10 @@
 0.0.0.0 1cloudfile.com
 0.0.0.0 gofile.io
 0.0.0.0 pixeldrain.com
-0.0.0.0 turbobit.net
 0.0.0.0 userscloud.com
 0.0.0.0 doodrive.com
 0.0.0.0 adf.ly
 0.0.0.0 playpaste.com
-0.0.0.0 gofile.io
 0.0.0.0 madiashare.com
 0.0.0.0 TrainBit.com
 0.0.0.0 BasicUpload.com
@@ -331,30 +305,6 @@
 0.0.0.0 IndiShare.com
 0.0.0.0 UploadMan.com
 0.0.0.0 up.media1fire.com
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-
-
 # Movies and Series
 0.0.0.0 wv5n.cuevana.biz
 0.0.0.0 cuevana3io.pro
@@ -363,7 +313,6 @@
 0.0.0.0 w3.cuevana33.com
 0.0.0.0 cuevana-oficial.com
 0.0.0.0 hd.cuevana3.nu
-0.0.0.0 cuevana3to.com
 0.0.0.0 www17.pelisplushd.to
 0.0.0.0 pelisplus.in
 0.0.0.0 pelisplushd.mx
@@ -387,7 +336,6 @@
 0.0.0.0 animeflv1.net
 0.0.0.0 animeflv.cfd
 0.0.0.0 animeflv.net
-0.0.0.0 vww.animeflv.one
 0.0.0.0 animeflv.app
 0.0.0.0 jkanime.net
 0.0.0.0 tioanime.com
@@ -409,7 +357,6 @@
 0.0.0.0 animeyt.com.co
 0.0.0.0 vwv.animeblix.org
 0.0.0.0 www3.ytanime.tv
-0.0.0.0 animeflv.zip
 0.0.0.0 seriesflix.fit
 0.0.0.0 seriesyonkis.online
 0.0.0.0 ww4.series24.org
@@ -429,7 +376,6 @@
 0.0.0.0 www2.cinemascampo.tv
 0.0.0.0 peliculasenhd.org
 0.0.0.0 www2.repelisplus.show
-0.0.0.0 cinecalidad.ec
 0.0.0.0 cinecalidades.com
 0.0.0.0 cinecalidad.rs
 0.0.0.0 wwe.cinecalidad.tel
@@ -449,76 +395,3 @@
 0.0.0.0 popcornflix.com
 0.0.0.0 y2mate.com/en948
 0.0.0.0 yidio.com
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
